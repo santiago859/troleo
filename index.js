@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('yo Sabia que te gustaba')
+    alert('yo sabia que e gustaba')
 });
 
 const noBtn = document.querySelector('#noBtn');
